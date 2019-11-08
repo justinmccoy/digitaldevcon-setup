@@ -6,8 +6,8 @@ description: >-
 # Create a Kubernetes Cluster on IBM Cloud
 
 ## Steps
-1. [Apply a Feature Code]()
-2. [Create a Kubernetes Cluster]()
+1. [Apply a Feature Code](#step-1-apply-a-feature-code)
+2. [Create a Kubernetes Cluster](#step-2-create-a-kubernetes-cluster)
 
 
 ## Overview 
@@ -25,7 +25,7 @@ _[Complete List of Free Services](https://www.ibm.com/cloud/free/#)_
 ## Step 1: Apply a Feature Code
   Lite IBM Cloud accounts cannot create a free managed Kubernetes cluster without a credit card applied to your account, but thankfully we have a **Feature Code** you can request and apply to your IBM account allowing creation of a managed Kubernetes Cluster.
 
-  ### If you have a Pay-As-You-Go account this is not necessary and you can create a managed Kubernetes Cluster for Free, skip forward to [Step 2: Create a Kubernetes Cluster]()
+  ### If you have a Pay-As-You-Go account this is not necessary and you can create a managed Kubernetes Cluster for Free, skip forward to [Step 2: Create a Kubernetes Cluster](#step-2-create-a-kubernetes-cluster)
 
 
   ### If you have a Lite IBM Cloud account continue and request a **Feature Code**
@@ -45,7 +45,7 @@ _[Complete List of Free Services](https://www.ibm.com/cloud/free/#)_
 
 
 
-Congratulations!  You have now Converted your IBM Cloud Lite account to a trial account, have additional services available to you and can now create a managed IBM Cloud Kubernetes Cluster.  Continue to [Step 2: Create a Kubernetes Cluster]()
+Congratulations!  You have now Converted your IBM Cloud Lite account to a trial account, have additional services available to you and can now create a managed IBM Cloud Kubernetes Cluster.  Continue to [Step 2: Create a Kubernetes Cluster](#step-2-create-a-kubernetes-cluster)
 
 
 
