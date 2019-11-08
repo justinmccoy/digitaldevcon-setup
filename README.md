@@ -15,7 +15,7 @@ In this lab you will apply a feature code to your existing IBM Cloud Account exp
 
 IBM Cloud accounts come in several flavors and newly created accounts are Lite accounts. Lite accounts **don't have an expiration date**, **don't require a credit card**, and provide limited access to a catalog of more then 40 services including IBM Watson APIs.
 
-For the *Digital Conference: AI & Cloud* you will take avantage of IBM Cloud services that are Free, but not available on Lite accounts that doesn't have a credit card associated.  Thankfully we have a feature code to enable you 
+For the *Digital Conference: AI & Cloud* you will take avantage of IBM Cloud services that are Free, but not available on Lite accounts that don't have a credit card associated.  Thankfully we have a feature code to enable you 
 
 **Sample of Free Services**
 ![Lite Account](assets/lite-account-services.png)
@@ -33,7 +33,7 @@ _[Complete List of Free Services](https://www.ibm.com/cloud/free/#)_
 1. If you have a Lite IBM Cloud account continue and request a feature code from [https://ibm.biz/featurecode](https://ibm.biz/featurecode) using the confirmation code: `developer2019`
 ![Feature Code Website](assets/feature-code-website.png))
 
-2. Click *Request a Code* and copy the feature code returned ![Feature Code](assets/feature-code.png)
+2. Click **Request a Code** and copy the feature code returned ![Feature Code](assets/feature-code.png)
 
 3. Apply the feature code to your Lite IBM Cloud account.  Go to your IBM Cloud account at [https://cloud.ibm.com](https://cloud.ibm.com) and select **Manage->Account** from the top right menu. ![Manage](assets/apply-code-1.png)
 
@@ -66,7 +66,7 @@ Duing Lab 2 portion of the *Digital Developer Conference: AI & Cloud* you will b
 5. You have now created a managed Kubernetes Cluster, it will take up to 10 minutes to complete provisioning. Monitor the creation process from this page. On this final page you are given instructions for configuring your environment to connect to the Kubernetes cluster, Wait as we will go through this portion in more detail later in Lab 2.  ![Cluster Created](assets/kube-create-5.png)
 
 
-### Congratulations you have completed Lab 1 and are ready to move forward with the remainder of the Digital Developer Conference: AI & Cloud
+### Congratulations!! You have completed Lab 1 and are ready to move forward with the remainder of the Digital Developer Conference: AI & Cloud
 
 
 
