@@ -30,7 +30,7 @@ _[Complete List of Free Services](https://www.ibm.com/cloud/free/#)_
 
   ### If you have a Lite IBM Cloud account continue and request a **Feature Code**
 
-1. If you have a Lite IBM Cloud account continue and request a feature code from [https://ibm.biz/featurecode](https://ibm.biz/featurecode) using the confirmation code: `developer2019`
+1. If you have a Lite IBM Cloud account continue and request a feature code from [https://ibm.biz/featurecode](https://ibm.biz/featurecode) using the confirmation code: `developer2020`
 ![Feature Code Website](assets/feature-code-website.png))
 
 2. Click **Request a Code** and copy the feature code returned ![Feature Code](assets/feature-code.png)
